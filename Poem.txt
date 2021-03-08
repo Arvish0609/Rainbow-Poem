@@ -6,4 +6,6 @@ blue
 green
 yellow
 orange
+red
 
+finished the poem
