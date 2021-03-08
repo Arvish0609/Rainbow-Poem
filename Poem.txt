@@ -4,6 +4,6 @@ violet
 indigo
 blue
 green
-yallow
+yellow
 orange
 
