@@ -2,6 +2,7 @@ this is my poem
 
 violet
 indigo
+blue
 green
 yallow
 orange
